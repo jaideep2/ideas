@@ -79,6 +79,36 @@ Often times I hear sounds that I want to record and revisit. An app that does th
 
 ## 20. [India GST Rates lookup API](id:gst-api)
 
-Simple API to query a commodity and get rate back. Bonus points for taking a picture and figuring out the object.
+Simple API to query a commodity and get rate back. Bonus points for taking a picture and figuring out the object. Inspired by https://www.indiafilings.com/find-gst-rate
 
-## 21 [](id:)
+## 21. [Can I park here app](id:can-i-park-here)
+
+Simple app that takes a photo of parking and figures out whether I can park here.
+
+## 22. [Handwritten notes recorgnizer](id:handwritten-notes)
+
+Super accurate cutting (ML) edge optical scanner for handwritten notes, or super old newspapers.
+
+## 23. [Sane call centers](id:sane-call-centers)
+
+Call center service where each phone call is recorded and saved as a customer profile. During wait times, the customer can talk about themselves and operator can take a few minutes to get familiar with customer's tone before starting to help them.
+
+## 24. [Rental summary generator](id:rental-summary)
+
+Generate summary of rental unit based on MLS sheet
+
+## 25. [Social medical price postings](id:social-medical)
+
+Social post hospital bills to aggregate actual price from hospitals and clinics.
+
+## 26. [](id:)
+
+## 27. [](id:)
+
+## 28. [](id:)
+
+## 29. [](id:)
+
+## 30. [](id:)
+
+
