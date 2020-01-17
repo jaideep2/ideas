@@ -65,5 +65,20 @@ Something like git but for writers. It would be awesome to see the constitution 
 
 Personal meme generator. Find pics from a database that matches memes and randomly output it for user.
 
-## 17. [](id:)
+## 17. [Movie Masher](id:movie-masher)
 
+Given raw video files and time stamps, create a new way of watching the movie. E.g. mashup of All the way + Selma + HBO LBJ biopic.
+
+## 18. [Fresh Naan maker](id:naan-maker)
+
+Parathamatic machine for making stuffed breads (naans and rotis) super fast. Like laserjet for naans.
+
+## 19. [Tune recorder](id:tune-recorder)
+
+Often times I hear sounds that I want to record and revisit. An app that does this, and auto categorize them would help.
+
+## 20. [India GST Rates lookup API](id:gst-api)
+
+Simple API to query a commodity and get rate back. Bonus points for taking a picture and figuring out the object.
+
+## 21 [](id:)
