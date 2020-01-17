@@ -101,14 +101,22 @@ Generate summary of rental unit based on MLS sheet
 
 Social post hospital bills to aggregate actual price from hospitals and clinics.
 
-## 26. [](id:)
+## 26. [Indian scholar articles](id:indian-scholar-articles)
 
-## 27. [](id:)
+Create search engine for Indian scholar articles, going back 1000s of years.
 
-## 28. [](id:)
+## 27. [Delhi style butter chicken](id:restaurant)
 
-## 29. [](id:)
+OG butter chicken on everything fast paced loud music restaurant.
 
-## 30. [](id:)
+## 28. [Shazam for cataloging sounds](id:sound-catalog)
 
+An audio social network for discovering and tagging sounds. These can be multilingual in nature, not more than a minute long.
 
+## 29. [News aggregator and summerizer](id:news-agg)
+
+No bullshit, biased removed news on everything. Will involve NLP and ML.
+
+## 30. [Music radio RJ AI bot](id:music-dj)
+
+App that connects to spotify and inserts text-to-speech realistic RJ bot and tells weather, news, concerts happening nearby.
