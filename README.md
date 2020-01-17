@@ -41,23 +41,29 @@ Bot that spews out english gibberish that pheasents cannot comprehend in a thous
 
 Bot that checks netflix (and other streaming sites) for movies/shows. Epitome of lazyness.
 
-## 11. [](id:)
+## 11. [Yelp twitter bot](id:yelp-twitter-bot)
 
-## 12. [](id:)
+Bot to analyse yelp reviews for establishments and give a yes or a no on whether to visit
 
+## 12. [Ultra precise component management system](id:precise-component)
 
-## 13. [](id:)
+An ultra precise inventory management system, for 1 billion different components. Auto tag pictures and ML for recorgnizing. Will be helpful in sorting trash.
 
+## 13. [Twitch channel for politics](id:twitch-politics)
 
+Enuf said.
 
-## 14. [](id:)
+## 14. [Logical English generator](id:logical-english)
 
+Correct english to its logical extreme. E.g. "double you" instead of "us two" or "we". Inspired by https://news.ycombinator.com/item?id=17168713
 
-## 15. [](id:)
+## 15. [Versioning for essays](id:essay-versions)
 
+Something like git but for writers. It would be awesome to see the constitution as it was edited.
 
-## 16. [](id:)
+## 16. [Personal Meme generator](id:meme)
 
+Personal meme generator. Find pics from a database that matches memes and randomly output it for user.
 
 ## 17. [](id:)
 
