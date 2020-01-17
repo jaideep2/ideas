@@ -21,3 +21,43 @@ A device that listens (uses ML?) and figures out if audio is an advertisment and
 
 Airport AI announcer that outputs relevant flight/airport information/updates without a thick accent or a condescending tone.
 
+## 6. [Artsy country maps](id:artsy-country-maps)
+
+How famous painters would draw their countries maps like http://thegate.boardingarea.com/if-8-famous-artists-created-maps-of-the-cities-they-loved/
+
+## 7. [Reddit troll bot](id:reddit-troll-bot)
+
+Probably exists. But I want something that is a proper chat bot and irritating as hell.
+
+## 8. [concert sound creater](id:concert-sound-creater)
+
+ML AI to recreate deep concert piano/jazz AMSR from regular audio
+
+## 9. [Aristocrat bot](id:aristocrat-bot)
+
+Bot that spews out english gibberish that pheasents cannot comprehend in a thousand lifetimes. Inspired from https://www.reddit.com/r/medievalworldproblems/
+
+## 10. [Netflix/Steaming service checker](id:netflix-checker)
+
+Bot that checks netflix (and other streaming sites) for movies/shows. Epitome of lazyness.
+
+## 11. [](id:)
+
+## 12. [](id:)
+
+
+## 13. [](id:)
+
+
+
+## 14. [](id:)
+
+
+## 15. [](id:)
+
+
+## 16. [](id:)
+
+
+## 17. [](id:)
+
