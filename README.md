@@ -120,3 +120,15 @@ No bullshit, biased removed news on everything. Will involve NLP and ML.
 ## 30. [Music radio RJ AI bot](id:music-dj)
 
 App that connects to spotify and inserts text-to-speech realistic RJ bot and tells weather, news, concerts happening nearby.
+
+## 31. [MLA/APA attribution spec for news](id:attrib-news)
+
+Specification for quoting news from various sources, e.g. NYT can footnote from Fox News and MSNBC abour a news report.
+
+## 32. [Epic history social app](id:epic-social)
+
+A social app that rewrites its own history as the users grow and interact with it. Like history books or encyclopedias.
+
+## 33. [Learn to speak algo](id:learn-to-speak)
+
+A ML algo that learns to speak by hearing itself repeat what it mimicks from others.
