@@ -1,4 +1,4 @@
-100 splendid ideas
+50 splendid ideas
 ===
 
 ## 1. [Spotify like news app](id:spotify-like-news-app)
@@ -11,7 +11,7 @@ Nothing more to add
 
 ## 3. [Auto drums player](id:auto-drums-player)
 
-An automatic drum player that uses Machine Learning (ML) to figure out human speech in real time and adjust the tempo accordingly. I think google came out with something like this recently..
+An automatic drum player that uses Machine Learning (ML) to figure out human speech in real time and adjust the tempo accordingly.
 
 ## 4. [TV Ad muter](id:tv-ad-muter)
 
@@ -132,3 +132,78 @@ A social app that rewrites its own history as the users grow and interact with i
 ## 33. [Learn to speak algo](id:learn-to-speak)
 
 A ML algo that learns to speak by hearing itself repeat what it mimicks from others.
+
+## 34. [Political Podcast](id:political-podcast)
+
+Podcast for discussing political views
+
+## 35. [Design Document creater](id:design-doc-creator)
+
+A webapp to digitalize and visualize information from dense design docs
+
+## 36. [multilingual currency API](id:currency-api)
+
+Multilingual (esp india) currency conversion API to do lakh to million conversion in mulitiple currencies
+
+## 37. [Foreground background ML painter](id:ML-painter)
+
+A ML painter that automatically fills and paints by deducing what is foreground and background
+
+## 38. [Learn to speak algo](id:learn-to-speak)
+
+A ML algo that learns to speak by hearing itself repeat what it mimicks from others.
+
+## 39. [Drum Mixer](id:drum-mixer)
+
+A ML drum scratch mixer from various sources
+
+## 40. [Writers social network](id:type-tight)
+
+Continuous streaming network where one streams text realtime and gets feedback by clicking and liking
+
+## 41. [saved-you-a-click twitter bot](id:twitter-bot-save)
+
+A ML algo that learns to speak by hearing itself repeat what it mimicks from others.
+
+## 42. [Whatsapp forward fact checker](id:factchecker-bot)
+
+Simple bot on group message chats that checks bs vs facts
+
+## 43. [key value network](id:key-value)
+
+broadcast updates using key value forwards that can be revoked.
+
+## 44. [Learn to speak algo](id:learn-to-speak)
+
+A ML algo that learns to speak by hearing itself repeat what it mimicks from others.
+
+## 45. [Multilevel comment summerizer](id:multi-comment)
+Multi level comment summariser with ML fine tuned to type of literature e.g. poem, rap, story, narrative
+
+## 46. [Inverted reddit](id:inverted-reddit)
+
+reddit front page that inverts to top comments instead of stories/posts
+
+## 47. [Famous painter app](id:famous-painter-app)
+
+A ML app that will upload 100 painting and learn the artist style. They can add and print anything!
+
+## 48. [slack jira simpler hybrid](id:slack-jira)
+
+A simple hybrid app with everything within messages and wiki for overview
+
+## 49. [Pihole API frontend](id:piehole-frontend)
+
+Create pihole website for pass through url and expose through API for everyone
+
+## 50. [better photo app](id:better-photo-app)
+
+Fingerprint locality sensitive hashing + ANNOY + PhotoDNA
+
+
+
+
+
+
+
+
